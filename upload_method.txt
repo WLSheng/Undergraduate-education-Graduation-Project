@@ -1,0 +1,7 @@
+若新建一个仓库，即新的项目：
+命令行进入这个文件夹下：git init
+关联云端的库：git remote add origin https://github.com/wulisheng0708/Undergraduate-education-Graduation-Project.git
+添加这个文件夹下面的所有文件：git add .
+第一次上传：git commit -m "first commit"
+关联到根目录：git push origin master
+
